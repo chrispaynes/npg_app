@@ -1,0 +1,5 @@
+{>"layout" /}
+
+{<body}
+Index.dust test
+{/body}
